@@ -8,11 +8,11 @@ import { TransferState, makeStateKey } from '@angular/platform-browser';
 const DATA = makeStateKey<any>('animals');
 
 @Component({
-  selector: 'testimonials-page',
-  templateUrl: './testimonials-page.component.html',
-  styleUrls: ['./testimonials-page.component.scss']
+  selector: 'my-testimonials',
+  templateUrl: './my-testimonials.component.html',
+  styleUrls: ['./my-testimonials.component.scss']
 })
-export class TestimonialsPageComponent implements OnInit {
+export class MyTestimonialsComponent implements OnInit {
 
   animals;
 
