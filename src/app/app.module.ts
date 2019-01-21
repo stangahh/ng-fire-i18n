@@ -11,9 +11,7 @@ import { environment } from '../environments/environment';
 
 // Firestarter App Modules
 import { CoreModule } from './core/core.module';
-import { UploadsModule } from './uploads/uploads.module';
 import { UiModule } from './ui/ui.module';
-import { NotesModule } from './notes/notes.module';
 
 // @angular/fire/ Modules
 import { AngularFireModule } from '@angular/fire';
@@ -33,8 +31,6 @@ import { AngularFireFunctionsModule } from '@angular/fire/functions';
     AppRoutingModule,
     CoreModule,
     UiModule,
-    NotesModule,
-    UploadsModule,
     AngularFireModule.initializeApp(environment.firebase, 'firestarter'),
     AngularFirestoreModule,
     AngularFireAuthModule,

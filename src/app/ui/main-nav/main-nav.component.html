@@ -13,18 +13,18 @@
 
     <div class="navbar-menu" [ngClass]="{'is-active': show}">
         <div class="navbar-end">
+            <a class="navbar-item" routerLink="/">
+                Home
+            </a>
+            <a class="navbar-item" routerLink="/about">
+                About
+            </a>
+            <a class="navbar-item" routerLink="/testimonials">
+                Testimonials
+            </a>
             <a class="navbar-item" routerLink="/login">
-        Login
-      </a>
-            <a class="navbar-item" routerLink="/ssr">
-        SSR Universal
-      </a>
-            <a class="navbar-item" routerLink="/notes">
-        Firestore
-      </a>
-            <a class="navbar-item" routerLink="/uploads">
-        File Uploads
-      </a>
+                Login
+            </a>
         </div>
     </div>
 </nav>

@@ -1,29 +1,18 @@
-<h1>Firebase User Auth Demo</h1>
+<h1>Login</h1>
 
 <p>
-  Learn more about 
+  Learn more about
   <a href="https://angularfirebase.com/tag/authentication">Firebase auth strategies</a>.
 </p>
+
+<user-profile></user-profile>
+
 <hr>
 
 <div *ngIf="!(auth.user | async); else alreadyLoggedIn">
 
-  <h3>Social Login</h3>
-
     <button (click)="signInWithGoogle()" class="button btn-social btn-google">
       <i class="fa fa-google fa-lg"></i> Connect Google
-    </button>
-
-    <button (click)="signInWithGithub()" class="button btn-social btn-github" disabled>
-      <i class="fa fa-github fa-lg"></i> Connect GitHub
-    </button>
-
-    <button (click)="signInWithFacebook()" class="button  btn-social btn-facebook" disabled>
-      <i class="fa fa-facebook fa-lg"></i> Connect Facebook
-    </button>
-
-    <button (click)="signInWithTwitter()" class="button  btn-social btn-twitter" disabled>
-      <i class="fa fa-twitter fa-lg"></i> Connect Twitter
     </button>
 
     <hr>
@@ -35,8 +24,6 @@
       </button>
 
     <hr>
-
-    <user-form></user-form>
 
 </div>
 
