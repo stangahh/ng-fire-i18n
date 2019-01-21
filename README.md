@@ -42,3 +42,8 @@ export const environment = {
 ```
 
 4.  And finally `ng serve`
+
+## TODO
+
+- i18n
+- Logged in (and permissioned) user to edit data in Firestore

@@ -1,5 +1,5 @@
-<div *ngIf="notify.msg | async as msg" class="notification"
-  [ngClass]="{ 
+<div *ngIf="notify.msg | async as msg" class="notification" [ngStyle]="msg ? {'margin': '10px'} : ''"
+  [ngClass]="{
     'is-danger': msg.style == 'error',
     'is-success': msg.style == 'success',
     'is-info': msg.style == 'info'
