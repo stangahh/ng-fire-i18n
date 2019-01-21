@@ -1,18 +1,6 @@
-<p align="center">
-
-<a href="https://slackin-pbfjhfxnsa.now.sh"><img src="https://slackin-pbfjhfxnsa.now.sh/badge.svg"></a>
-
-<a href="https://circleci.com/gh/codediodeio/angular-firestarter"><img src="https://circleci.com/gh/codediodeio/angular-firestarter.svg?style=svg"></a>
-
-</p>
-
 # FireStarter
 
-FireStarter is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
-
-- [Live Demo](https://firestarter-96e46.firebaseapp.com/)
-- [Lessons and Screencasts](https://angularfirebase.com)
-- [Join the Slack Team](https://goo.gl/qF8Q5r)
+Forked from [Firestarter](https://github.com/codediodeio/angular-firestarter) | FireStarter is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 
 ## Features
 
@@ -27,7 +15,7 @@ FireStarter is an Angular PWA powered by Firebase. It can serve as a foundation 
 
 1.  Run
 
-- `git clone https://github.com/codediodeio/angular-firestarter.git firestarter`
+- `git clone https://github.com/stangahh/ng-fire-i18n.git firestarter`
 - `cd firestarter`
 - `npm install`
 
@@ -53,6 +41,4 @@ export const environment = {
 };
 ```
 
-4.  Open `src/app/app.module.ts` and replace the `firebasePlaceholderConfig` with your environment, i.e `environment.firebase`
-
-5.  And finally `ng serve`
+4.  And finally `ng serve`
