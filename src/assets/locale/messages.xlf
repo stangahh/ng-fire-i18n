@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3e4dd2156bc23c257fa70d9beda64c4293276404" datatype="html">
+        <source>Firestarter Angular4 Demo App</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7e06fb1a748c094e2f25b20541888df487f39d9a" datatype="html">
+        <source>
+                Home
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b984e3017566d2d810b31db986580508fa9c9e1b" datatype="html">
+        <source>
+                Login
+            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dc34b92adee2fe36beb44aa73c22f34e28022d30" datatype="html">
+        <source>Howdy, GUEST</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-profile/user-profile.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="77203793a1a901b26d22867233688eb75413e695" datatype="html">
+        <source>Login to get started...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-profile/user-profile.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="020a4b806cd90c6aa2a964b52839c3a9b4c4d6e8" datatype="html">
+        <source>Howdy, <x id="INTERPOLATION" equiv-text="{{ user.displayName }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-profile/user-profile.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-profile/user-profile.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ee4f735326c00c3c8b25186729aa3438b901eb8c" datatype="html">
+        <source>
+        Check me out | <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Stangahh<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
+        <source>Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="349693bebc58fc62bfc3ccb8b4a7b70dec0e1201" datatype="html">
+        <source>
+  Learn more about
+  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Firebase auth strategies<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40700d30bd2a0a2097c773f7020b2af277f1468e" datatype="html">
+        <source>
+      <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Connect Google
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8fd822fc44a9f4609f66c8237d1a0553d49385af" datatype="html">
+        <source>Anonymous Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d1864d650ffc48a4a23be1768289fd55ff2a53e4" datatype="html">
+        <source>
+        <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Connect Anonymously
+      </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="09c4842196cd3fd0fbbc13515d794c1be6c94ebb" datatype="html">
+        <source>
+    You are logged in <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/user-login/user-login.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1b63997fcb446b11ca69b5997e71d6b2a463bdcc" datatype="html">
+        <source>Welcome to ng-fire-i18n</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/home-page/home-page.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="439146cb369e17bafd5174f8488c40aa52869088" datatype="html">
+        <source>Welcome to ng-fire-i18n paragraph</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/home-page/home-page.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f15d71e375c722198504e904535b1bf37dc6806f" datatype="html">
+        <source>About Me</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/about/about-me.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="02ee25ddb5efc7a64a28030cf02a9108b9dcf8e7" datatype="html">
+        <source>About Me paragraph</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/about/about-me.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7023bfe44c3a1528a6c1d56cac8ddf7e8dbe15b0" datatype="html">
+        <source>My Testimonials</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/my-testimonials/my-testimonials.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8b835db7b7294d94fc17d8a89ca1226855e3818c" datatype="html">
+        <source>My Testimonials paragraph</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/my-testimonials/my-testimonials.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a30517d25f31a3e1dd0a5c7c64c5b46e560df19" datatype="html">
+        <source>Learn all about <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>server-side rendering strategies in Angular<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/my-testimonials/my-testimonials.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4805245e050008e5e0fd354b1ac22aaf13d2270a" datatype="html">
+        <source>Dynamic Firebase Data:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/my-testimonials/my-testimonials.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
